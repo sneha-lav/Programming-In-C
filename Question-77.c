@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 
+
 int main() {
     int rows, cols, isDistinct = 1;
     scanf("%d %d", &rows, &cols);
